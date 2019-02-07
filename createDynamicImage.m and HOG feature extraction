@@ -13,7 +13,7 @@ end
 
 % size(fdi)
 
-
+# HOG Feature Extraction
 workingDir=cd;
 >> workingDir=cd;
 >> imageNames = dir(fullfile(workingDir,'dynamic image','*.jpg'));
