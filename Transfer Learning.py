@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May 30 19:30:24 2020
-
-@author: Arun
-"""
-
 # example of using a pre-trained model as a classifier
 from tensorflow.keras.applications.vgg16 import preprocess_input
 from tensorflow.keras.applications.vgg16 import decode_predictions
