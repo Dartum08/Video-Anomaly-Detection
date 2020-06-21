@@ -13,4 +13,4 @@ We used MATLAB and python language in this project to refine and to extract feat
 5. After preparing the training and testing dataset, we perform various algorithms like SVM, KNN etc.. 
 6. We have also tested various convolutional architectures like Alexnet, LeNet, etc... We have also applied transfer learning to see the effect of it.
 
-Accuracy is highest in the case of model trained by alexnet i.e. 95% and lowest in the case of random forest i.e. 90%.
+Accuracy is highest in the case of model trained by alexnet i.e. 95% and lowest in the case of random forest i.e. 90%. After applying transfer learning as dataset was quite small, accuracy improved a little bit after fine tuning the architecutre associated with transfer learning.
